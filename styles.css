@@ -662,12 +662,12 @@ a {
 
 .hero__date,
 .hero__venue {
-  font-size: 0.8125rem;
-  font-weight: 400;
+  font-size: 1rem;
+  font-weight: 500;
   letter-spacing: 2px;
   opacity: 0.75;
   line-height: 1.6;
-  color: var(--color-text-light);
+  color: #303030FF;
 }
 
 .hero__venue {
