@@ -39,7 +39,7 @@ const CONFIG = {
     date: "2026-10-17",
     time: "12:00",
     venue: "MBC 컨벤션 진주",
-    hall: "3관 CHAPEL HALL",
+    hall: "3관 CHAPEL HALL 오후12시",
     address: "경상남도 진주시 동진로 415(충무공동) 진주종합경기장내",
     tel: "055-762-0200"
   },
